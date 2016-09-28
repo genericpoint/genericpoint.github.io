@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "CV"
+    url: https://docs.google.com/viewer?url=https://github.com/andrewmaurer/CV/raw/master/cv.pdf
 
   - title: "Sample Navigation Link 2"
     url: /
